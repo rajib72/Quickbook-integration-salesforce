@@ -1,0 +1,5 @@
+Custom Settings
+custom metadata
+
+https://app.sandbox.qbo.intuit.com/app/homepage
+https://developer.intuit.com/app/developer/qbo/docs/develop/sandboxes/manage-your-sandboxes
